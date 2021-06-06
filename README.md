@@ -1,6 +1,6 @@
-# My Spotify
 
-# This project is a final project to showcase my talents
+
+# This project is a final project
 
 ```
 npm start
@@ -12,4 +12,4 @@ npm start
 - [x] Javascript
 - [x] HTML
 - [x] CSS
-- [x] built with my colleagues @roxmeri
+
